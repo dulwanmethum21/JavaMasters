@@ -13,7 +13,7 @@ Java Masters is an OOP-based development team that builds efficient and scalable
 
    1	  M D Munathanthiri	        SA25610488
 
-   2	  P D H V Kumara	          SA25610419
+   2	  P G H V Kumara	          SA25610419
 
    3	  P D Peththanayake	        SA25610418
 
